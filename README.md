@@ -25,7 +25,6 @@ I am just a curious guy learning about how systems work and how to break them.
 ![Web App Pentesting](https://img.shields.io/badge/Web_App_Pentesting-E34F26?style=flat-square&logoColor=white)
 ![Network Security](https://img.shields.io/badge/Network_Security-0052CC?style=flat-square&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![SOC Analysis](https://img.shields.io/badge/SOC_Analysis-1679A7?style=flat-square&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
