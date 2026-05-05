@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zeyad Mahmoud</h1>
-<h3 align="center">A curious guy</h3>
+<h1 align="center">Hello Friend </h1>
+<h3 align="center">I am just a curious guy</h3>
 
 <p align="center">
 Check my writeups at <a href="https://medium.com/@zeyadmahmoud.zm7">medium.com/@zeyadmahmoud.zm7</a>
