@@ -38,6 +38,4 @@ I am just a curious guy learning about how systems work and how to break them.
 
 **Public Research**
 
-I do some writeups on Hack The Box machines at [Medium](https://medium.com/@zeyadmahmoud.zm7).
-
-Recent scenarios: Active · Silentium · Facts · CCTV
+I do some writeups about Hack The Box machines. Check them at [Medium](https://medium.com/@zeyadmahmoud.zm7).
