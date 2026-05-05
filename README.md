@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeyad Mahmoud</h1>
 <h3 align="center">A curious guy</h3>
 
-- Check my writeups at [https://medium.com/@zeyadmahmoud.zm7](https://medium.com/@zeyadmahmoud.zm7)
+- Check my write-ups [https://medium.com/@zeyadmahmoud.zm7](https://medium.com/@zeyadmahmoud.zm7)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
