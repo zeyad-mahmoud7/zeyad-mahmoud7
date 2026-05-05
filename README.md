@@ -19,7 +19,7 @@ I am just a curious guy learning about how systems work and how to break them.
 
 ---
 
-**What I work with**
+**Skills and Tools**
 
 ![Web App Pentesting](https://img.shields.io/badge/Web_App_Pentesting-E34F26?style=flat-square&logoColor=white)
 ![Network Security](https://img.shields.io/badge/Network_Security-0052CC?style=flat-square&logoColor=white)
