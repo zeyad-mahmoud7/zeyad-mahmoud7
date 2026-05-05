@@ -2,11 +2,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/zeyad-mahmoud7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@zeyadmahmoud.zm7"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/></a>
-  <a href="https://app.hackthebox.com"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black"/></a>
+  <a href="https://profile.hackthebox.com/profile/019d2f1d-77ae-72bc-9bee-7ba659d0023b"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black"/></a>
 </p>
 
 ---
-<p align="center"><b>Crets</b></p>
+<p align="center"><b>Certs</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CCNA_200--301-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
@@ -16,11 +16,7 @@
 
 ---
 
-I studied Mechatronics. Then realized I was more interested in breaking systems than building them.
-
-Now I do penetration testing — web apps, networks, Active Directory. I've caught real infrastructure vulnerabilities in production environments, not just labs.
-
-If it has an attack surface, I want to understand it.
+I am just a curious guy learning about how systems work and how to break them.
 
 ---
 
@@ -42,6 +38,6 @@ If it has an attack surface, I want to understand it.
 
 **Public Research**
 
-I break down real attack scenarios — AD misconfigurations, lateral movement chains, privilege escalation paths — and publish the methodology on [Medium](https://medium.com/@zeyadmahmoud.zm7).
+I do some writeups on Hack The Box machines at [Medium](https://medium.com/@zeyadmahmoud.zm7).
 
 Recent scenarios: Active · Silentium · Facts · CCTV
