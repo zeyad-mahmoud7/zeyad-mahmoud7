@@ -6,12 +6,11 @@
 </p>
 
 ---
-<p align="center"><b>Certs</b></p>
+<p align="center"><b>Courses</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CCNA_200--301-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/CompTIA_Security%2B_701-E20074?style=flat-square&logo=comptia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco_Network_Security-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
 </p>
 
 ---
