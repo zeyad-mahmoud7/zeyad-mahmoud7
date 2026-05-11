@@ -36,4 +36,4 @@ I am just a curious guy learning about how systems work and how to break them.
 
 **Blog**
 
-I do some writeups about Hack The Box machines. Check them at [Medium](https://medium.com/@zeyadmahmoud.zm7).
+I do some write-ups about Hack The Box machines. Check them at [GitHub Blog](https://zeyad-mahmoud7.github.io/) or [Medium](https://medium.com/@zeyadmahmoud.zm7).
